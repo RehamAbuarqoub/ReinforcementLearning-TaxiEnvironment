@@ -1,0 +1,15 @@
+{
+  "tag": "BEST_a0.2_e0.1_g0.9",
+  "episodes": 2000,
+  "alpha": 0.2,
+  "epsilon": 0.1,
+  "gamma": 0.9,
+  "avg_return_overall": -29.734,
+  "avg_return_last100": 0.12,
+  "avg_steps_last100": 15.39,
+  "artifacts": {
+    "csv": "reports\\20251016_145600_BEST_a0.2_e0.1_g0.9\\metrics_per_episode.csv",
+    "steps_plot": "reports\\20251016_145600_BEST_a0.2_e0.1_g0.9\\steps_per_episode.png",
+    "returns_plot": "reports\\20251016_145600_BEST_a0.2_e0.1_g0.9\\returns_ma50.png"
+  }
+}
