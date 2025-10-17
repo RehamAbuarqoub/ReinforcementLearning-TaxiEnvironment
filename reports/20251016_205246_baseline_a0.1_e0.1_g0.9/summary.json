@@ -1,0 +1,15 @@
+{
+  "tag": "baseline_a0.1_e0.1_g0.9",
+  "episodes": 2000,
+  "alpha": 0.1,
+  "epsilon": 0.1,
+  "gamma": 0.9,
+  "avg_return_overall": -53.1295,
+  "avg_return_last100": 0.48,
+  "avg_steps_last100": 16.02,
+  "artifacts": {
+    "csv": "reports\\20251016_205246_baseline_a0.1_e0.1_g0.9\\metrics_per_episode.csv",
+    "steps_plot": "reports\\20251016_205246_baseline_a0.1_e0.1_g0.9\\steps_per_episode.png",
+    "returns_plot": "reports\\20251016_205246_baseline_a0.1_e0.1_g0.9\\returns_ma50.png"
+  }
+}
